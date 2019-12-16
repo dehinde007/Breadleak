@@ -1,7 +1,7 @@
 //importing dependencies
-cons path = require('path')
+const path = require('path');
 const express = require('express');
-const bodyParser = require('body-parser')
+const bodyParser = require('body-parser');
 const cors = require('cors')
 const router = express.Router();
 
