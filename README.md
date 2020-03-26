@@ -11,7 +11,4 @@
 # Project Title
 
 # Project Description
-A cyber security bug-bounty platform where organizations employ the services of ethical
-hackers to hack into their systems and find vulnerabilites as a proactive approach to 
-fighting off rouge hackers and cyber attacks
-
+A cyber security team
